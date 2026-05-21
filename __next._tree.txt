@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/0f9mp79-wpd9..css","style"]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.0yo6-5yoeeudq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e1750518007a189a-s.p.0q9o2mhri4tk5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap","style"]
+:HL["https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"JePR2UrU6DBE0TVhLNByJ"}
